@@ -17,7 +17,7 @@ Darko</a></h1>
 
 - 📫 How to reach me **darko.selakovic11@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/darkoo59/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/darkoo59/darkoo59/blob/main/Darko_Selaković_Resume.pdf" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
@@ -30,7 +30,7 @@ Darko</a></h1>
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/darko_s_11/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
+		<a style="margin-left: 5px;" target="_blank" href="https://github.com/darkoo59/darkoo59/blob/main/Darko_Selaković_Resume.pdf">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 
