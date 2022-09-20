@@ -11,7 +11,7 @@ Darko</a></h1>
 
 - 🌱 I’m currently studying about design patterns
 
-- 🤝 I’m available for freelancing.
+- 🤝 I’m available for freelancing
 
 - 🌱 I’m available for student internship
 
