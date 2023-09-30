@@ -7,13 +7,13 @@ Darko</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently studying at Faculty of Technical Sciences, University of Novi Sad</a>
+- 🔭 Bachelor's degree in Electrical and Computer Engineering</a>
 
-- 🌱 I’m currently studying about design patterns
+- 🌱 I’m currently learning about design patterns
 
 - 🤝 I’m available for freelancing
 
-- 🌱 I’m available for student internship
+- 🌱 I’m available for work
 
 - 📫 How to reach me **darko.selakovic11@gmail.com**
 
