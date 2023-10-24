@@ -23,6 +23,8 @@ I'm a software engineer and content creator building my version of the digital w
 <br/>
 <br />
 
+---
+
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 5px;">Connect with me 🤝 </h3>
 
 <p align="center">
