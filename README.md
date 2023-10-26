@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm
 Darko Selaković</a></h1>
-<h3 align="center">A passionate software engineer at Belgrade, Serbia</h3>
+<h3 align="center">A passionate software engineer from Belgrade, Serbia</h3>
 I'm a software engineer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All instagram content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my Instagram page <a href="https://www.instagram.com/site_for_night/" target="blank">site_for_night</a> to more and more people every single day.
 
 ---
