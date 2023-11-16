@@ -37,7 +37,7 @@ I'm a software engineer and content creator building my version of the digital w
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/site_for_night/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://github.com/darkoo59/darkoo59/blob/main/Darko_Selaković_Resume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+					<img width="44" height="44" src="https://img.icons8.com/nolan/64/resume.png" alt="resume"/></a>
       </div>
 
 </p>
