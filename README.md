@@ -19,7 +19,7 @@ I'm a software engineer and content creator building my version of the digital w
 
 - 📫 How to reach me **darko.selakovic11@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/darkoo59/darkoo59/blob/main/Darko_Selaković_Resume.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/darkoo59/darkoo59/blob/main/darko_selakovic_resume.pdf" target="blank">Resume</a>
 <br/>
 <br />
 
